@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @catsnyan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python and SQL
+- 👀 I’m interested in digital arts
+- 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me email: jtc450@nyu.edu
 
